@@ -1,4 +1,5 @@
 In the early 1980s I stumbled across a Zilog Z80 in the form of a ZX80 and found my programming passion. From Assembler and Basic to Pascal and Turbo Pascal, C, C++ and Java, Javascript and CSS after years of Visual Basic and SQL I ended up with C#, XAML, T-SQL and ASP.Net, coquetting with F#.
+
 I graduated from University of Cologne in molecular biology combining bio science and computer engineering. Since 1996 I founded my own company working on Windows and web-based software for laboratories and other businesses with Microsoft technologies.
 
 My Website:
