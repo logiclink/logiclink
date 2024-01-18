@@ -2,9 +2,6 @@ In the early 1980s I stumbled across a Zilog Z80 in the form of a ZX80 and found
 
 I graduated from University of Cologne in molecular biology combining bio science and computer engineering. Since 1996 I founded my own company working on Windows and web-based software for laboratories and other businesses with Microsoft technologies.
 
-My Website:
-[https://www.logiclink.de](https://www.logiclink.de)
-
 <!--
 **logiclink/logiclink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
